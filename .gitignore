@@ -68,3 +68,4 @@
 # swap files
 *,swp
 *~
+*py~
