@@ -1,6 +1,5 @@
 /**
  * @file    parallel_sort.cpp
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Implements the parallel, distributed sorting function.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.

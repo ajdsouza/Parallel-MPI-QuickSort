@@ -1,6 +1,5 @@
 /**
  * @file    parallel_sort.h
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Declares the parallel sorting function.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.

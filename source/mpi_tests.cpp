@@ -1,7 +1,6 @@
 /**
  * @file    mpi_tests.cpp
  * @ingroup group
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   GTest Unit Tests for the parallel MPI code.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.

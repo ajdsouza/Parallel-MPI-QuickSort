@@ -1,6 +1,5 @@
 /**
  * @file    io.h
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Implements common IO and input generation functions.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.

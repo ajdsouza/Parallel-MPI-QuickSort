@@ -1,6 +1,5 @@
 /**
  * @file    main.cpp
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Implements the main function which reads input data and dispatches
  *          the sorting.
  *

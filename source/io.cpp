@@ -1,6 +1,5 @@
 /**
  * @file    io.cpp
- * @author  Patrick Flick <patrick.flick@gmail.com>
  * @brief   Implementation of common IO routines.
  *
  * Copyright (c) 2014 Georgia Institute of Technology. All Rights Reserved.
